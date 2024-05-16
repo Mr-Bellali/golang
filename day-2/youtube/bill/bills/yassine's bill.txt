@@ -1,0 +1,6 @@
+Bill breakdown: 
+soup:                     ...$12.99 
+orange juice:             ...$5 
+batata:                   ...$2 
+tip:                      ...$12.00
+total:                    ...$31.99
